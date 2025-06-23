@@ -1,0 +1,9 @@
+Alimento,Consumo,Afetada,Nao Afetada,Total
+Carne Fresca,Alto,9,208,217
+Carne Fresca,Baixo,52,472,524
+Leite Fresco,Alto,6,275,281
+Leite Fresco,Baixo,50,396,446
+Carne de Porco Salgada,Alto,29,289,318
+Carne de Porco Salgada,Baixo,29,391,420
+Melado,Alto,18,231,249
+Melado,Baixo,40,451,491
